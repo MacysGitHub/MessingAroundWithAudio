@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MessingAroundWithAudio", "MessingAroundWithAudio\MessingAroundWithAudio.vcxproj", "{F54CF36F-2278-405D-9C90-3FBB7F2C3FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F54CF36F-2278-405D-9C90-3FBB7F2C3FB6}.Debug|x64.ActiveCfg = Debug|x64
+		{F54CF36F-2278-405D-9C90-3FBB7F2C3FB6}.Debug|x64.Build.0 = Debug|x64
+		{F54CF36F-2278-405D-9C90-3FBB7F2C3FB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{F54CF36F-2278-405D-9C90-3FBB7F2C3FB6}.Debug|x86.Build.0 = Debug|Win32
+		{F54CF36F-2278-405D-9C90-3FBB7F2C3FB6}.Release|x64.ActiveCfg = Release|x64
+		{F54CF36F-2278-405D-9C90-3FBB7F2C3FB6}.Release|x64.Build.0 = Release|x64
+		{F54CF36F-2278-405D-9C90-3FBB7F2C3FB6}.Release|x86.ActiveCfg = Release|Win32
+		{F54CF36F-2278-405D-9C90-3FBB7F2C3FB6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08484D4E-F418-447B-A994-10FCA0F4198F}
+	EndGlobalSection
+EndGlobal

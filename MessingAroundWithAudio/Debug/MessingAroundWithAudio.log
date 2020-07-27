@@ -1,0 +1,6 @@
+﻿  MyAudioSource.cpp
+  Source.cpp
+C:\Users\macyg\source\repos\MessingAroundWithAudio\MessingAroundWithAudio\Source.cpp(115,20): warning C4244: '=': conversion from 'double' to 'REFERENCE_TIME', possible loss of data
+C:\Users\macyg\source\repos\MessingAroundWithAudio\MessingAroundWithAudio\Source.cpp(52,9): warning C4101: 'numFramesPadding': unreferenced local variable
+  Generating Code...
+  MessingAroundWithAudio.vcxproj -> C:\Users\macyg\source\repos\MessingAroundWithAudio\Debug\MessingAroundWithAudio.exe
